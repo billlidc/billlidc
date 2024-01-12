@@ -1,12 +1,16 @@
-# Hi 👋, my name is Bill Li
+# Hello there! 👋 I'm Bill Li
 
 <!--- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
+<!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/1010nishant.md -->
+<!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/BrantLauro.md -->
+
 
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
 
 <!--
 **leeklee0427/leeklee0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +28,20 @@ Here are some ideas to get you started:
 -->
 
 
+🙋‍♂️ I'm an individual who blends academic rigor with a wide array of interests.
+
+🎓 Passionate about utilizing computational methods to address real-world challenges and building applications from scratch.
+
+🌲 In my downtime, I love to:
+- ⛺️ Explore the beauty of nature through hiking
+- 🏸 Play badminton for both fitness and fun
+- 📹 Capture stunning aerial views using drones
+- 🎵 Indulge in music – playing guitars, pianos, and singing
+
+🤝 I'm open to job opportunities and eager to connect with like-minded individuals. If you're into coding, hiking, photography, or music, feel free to reach out for a chat!
+
+
+
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
@@ -35,7 +53,9 @@ Here are some ideas to get you started:
   
 </div>
 
+
 <!-- https://github.com/devicons/devicon/tree/master/icons/ -->
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.java.com/en/" target="_blank"> 
@@ -70,5 +90,5 @@ Here are some ideas to get you started:
 
 [leeklee0427](https://github.com/leeklee0427)
 
-Last Edited on: 11/04/2023
+Last Edited on: 01/12/2024
 
