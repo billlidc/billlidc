@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 🎓 Passionate about utilizing computational methods to address real-world challenges and building applications from scratch.
 
 🌲 In my downtime, I love to:
-- ⛺️ Explore the beauty of nature through hiking
+- ⛺️ Explore the beauty of nature through road tripping and hiking
 - 🏸 Play badminton for both fitness and fun
 - 📹 Capture stunning aerial views using drones
 - 🎵 Indulge in music – playing guitars, pianos, and singing
