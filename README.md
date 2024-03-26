@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 🌲 In my downtime, I love to:
 - ⛺️ Explore the beauty of nature through road tripping and hiking
 - 🎵 Indulge in music – playing guitars, pianos, and singing
-- - 📹 Capture stunning aerial views using drones
-- - 🏸 Play badminton for both fitness and fun
+- 📹 Capture stunning aerial views using drones
+- 🏸 Play badminton for both fitness and fun
 
 🤝 I'm open to job opportunities and eager to connect with like-minded individuals. If you're into coding, hiking, photography, or music, feel free to reach out for a chat!
 
