@@ -80,15 +80,15 @@ Here are some ideas to get you started:
 
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeklee0427&theme=react&layout=compact" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=leeklee0427&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billlidc&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=billlidc&theme=react&show_icons=true&include_all_commits=true" />
 </p>
 
 
 ------
 
 
-[leeklee0427](https://github.com/leeklee0427)
+[billlidc](https://github.com/billlidc)
 
 Last Edited on: 01/12/2024
 
