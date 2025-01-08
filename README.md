@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 🌲 In my downtime, I love to:
 - ⛺️ Explore the beauty of nature through road tripping and hiking
-- 🎵 Indulge in music – playing guitars, pianos, and singing
+- 🎵 Indulge in music – playing guitar or piano and singing
 - 📹 Capture stunning aerial views using drones
 - 🎾 Play tennis for both fitness and fun
 
