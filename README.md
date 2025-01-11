@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 📹 Capture stunning aerial views using drones
 - 🎾 Play tennis for both fitness and fun
 
-🤝 I'm open to job opportunities and eager to connect with like-minded individuals. If you're into coding, hiking, music, or tennis, feel free to reach out!
+🤝 I'm open to job opportunities and eager to connect with like-minded individuals. If you are into coding, hiking, music, or tennis, feel free to reach out!
 
 
 
