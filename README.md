@@ -7,15 +7,19 @@
 
 <!--- duck -->
 <div align="center">
-  <img  src="https://github.com/billlidc/billlidc/blob/master/duck-dance.gif"
-       alt="duck" /></a>
+  <img
+       src="https://github.com/billlidc/billlidc/blob/master/duck-dance.gif"
+       alt="duck"
+       style="width: 200px; height: auto;" />
 </div>
+
 
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/billlidc/billlidc/blob/master/grid-snake.svg"
-       alt="snake" /></a>
+  <img
+      src="https://github.com/billlidc/billlidc/blob/master/grid-snake.svg"
+      alt="snake" /></a>
 </div>
 
 
