@@ -5,6 +5,13 @@
 <!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/BrantLauro.md -->
 
 
+<!--- duck -->
+<div align="center">
+  <img  src="https://github.com/billlidc/billlidc/blob/master/duck-dance.gif"
+       alt="duck" /></a>
+</div>
+
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/billlidc/billlidc/blob/master/grid-snake.svg"
