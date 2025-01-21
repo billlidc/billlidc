@@ -5,21 +5,20 @@
 <!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/BrantLauro.md -->
 
 
-<!--- duck -->
-<div align="center">
-  <img
-       src="https://github.com/billlidc/billlidc/blob/master/duck-dance.gif"
-       alt="duck"
-       style="width: 200px; height: auto;" />
-</div>
-
-
 
 <!--- snake -->
 <div align="center">
   <img
       src="https://github.com/billlidc/billlidc/blob/master/grid-snake.svg"
       alt="snake" /></a>
+</div>
+
+<!--- duck -->
+<div align="center">
+  <img
+       src="https://github.com/billlidc/billlidc/blob/master/duck-dance.gif"
+       alt="duck"
+       style="width: 150px; height: auto;" />
 </div>
 
 
